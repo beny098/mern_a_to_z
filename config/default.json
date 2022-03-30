@@ -1,0 +1,4 @@
+{
+    "mongoURI":
+      "mongodb+srv://beny098:beny098@mernatoz.2bvju.mongodb.net/MERN_A_to_Z?retryWrites=true&w=majority"
+  }
